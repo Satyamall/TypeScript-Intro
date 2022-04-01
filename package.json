@@ -1,0 +1,12 @@
+{
+  "name": "typescript-intro",
+  "version": "1.0.0",
+  "description": "- <a href=\"https://www.typescriptlang.org/download\">Docs</a>\r  - <a href=\"https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next\">Typescript plugin for vscode</a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
